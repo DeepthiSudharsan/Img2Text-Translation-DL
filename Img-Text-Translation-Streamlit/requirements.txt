@@ -1,1 +1,9 @@
-
+streamlit==0.82.0
+numpy==1.19.5
+matplotlib==3.1.1
+opencv-python==4.5.2.54
+easyocr==1.4.1
+ipython==7.8.0
+Pillow==6.2.0
+transformers==4.11.0
+langdetect==1.0.9
