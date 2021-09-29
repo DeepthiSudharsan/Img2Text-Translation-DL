@@ -11,7 +11,6 @@ app = MultiPage()
 app.add_page("Welcome - Namaste - Vanakkam",welcome.app)
 app.add_page("Translate text from Images", img_translate.app)
 app.add_page("Translate text", text_translate.app)
-@st.cache
 # The main app
 app.run()
 
