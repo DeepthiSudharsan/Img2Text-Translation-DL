@@ -40,4 +40,3 @@ def app():
 			st.write(out)
 	else:
 		st.warning("Please enter text for translating")
-@st.cache
