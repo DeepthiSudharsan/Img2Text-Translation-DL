@@ -122,4 +122,3 @@ def app():
 		st.image(source_img)
 	else:
 		st.warning("No file has been chosen yet")
-@st.cache
