@@ -1,7 +1,7 @@
 import streamlit as st
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from langdetect import detect
-
+@st.cache(allow_output_mutation=True)
 def app():
 	lang_dictionary = {"sv":"sv_SE","fi":"fi_FI","hi":"hi_IN","ro":"ro_RO","ko":"ko_KR","sl":"sl_SI","mr":"mr_IN","pt":"pt_XX",
     "de":"de_DE","en":"en_XX","fa": "fa_IR","th": "th_TH","mk": "mk_MK","pl": "pl_PL","ru": "ru_RU","lv": "lv_LV",
