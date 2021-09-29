@@ -13,12 +13,26 @@ Make sure to install streamlit if haven't already, to install streamlit use the 
 ```
 pip install streamlit
 ```
-All the package requirements along with the versions have been mentioned in the requirements.txt file. 
-
+All the package requirements along with the versions have been mentioned in the requirements.txt file. Running the code is as simple as going to your Anaconda Prompt, navigating to the directly with your streamlit py files, and running the command 
+```
+$ streamlit run img2text_translate.py
+```
 ### How to run?
 
-To run the app, in the anaconda prompt, go to the location where the img2text_translate.py file is using the cd command and then run the following line:
-
+* Clone the repository
+* Setup Virtual environment
 ```
-streamlit run img2text_translate.py
+$ python3 -m venv env
+```
+* Activate the virtual environment
+```
+$ source env/bin/activate
+```
+* Install dependencies using
+```
+$ pip install -r requirements.txt
+```
+* Run Streamlit
+```
+$ streamlit run img2text_translate.py
 ```
