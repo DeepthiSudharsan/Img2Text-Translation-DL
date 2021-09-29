@@ -30,19 +30,13 @@ https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Tex
 ![image](https://user-images.githubusercontent.com/59824729/135140040-62296a59-662c-4c23-8c48-eb9ef77ed0f8.png)
 ![image](https://user-images.githubusercontent.com/59824729/135140071-912b684d-d0fd-4885-868d-e20e5288d486.png)
 
-#### CONTRIBUTORS
+### CONTRIBUTORS
 
 [//]: contributor-faces
 <a href="https://github.com/DeepthiSudharsan"><img src="https://avatars.githubusercontent.com/u/59824729?v=4" title="DeepthiSudharsan" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/IshaIndhu"><img src="https://avatars.githubusercontent.com/u/65705774?v=4" title="IshaIndhu" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/Kabilan-n"><img src="https://avatars.githubusercontent.com/u/60337704?v=4" title="Kabilan-n" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/lakshayak"><img src="https://avatars.githubusercontent.com/u/81644362?v=4" title="lakshayak" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/meghnabmenon"><img src="https://avatars.githubusercontent.com/u/65718925?v=4" title="meghnabmenon" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/DeepthiSudharsan"><img src="https://avatars.githubusercontent.com/u/59824729?v=4" title="DeepthiSudharsan" width="80" height="80"></a>
-[//]: contributor-faces
 <a href="https://github.com/atomicrajat619"><img src="https://avatars.githubusercontent.com/u/46920783?v=4" title="atomicrajat619" width="80" height="80"></a>
