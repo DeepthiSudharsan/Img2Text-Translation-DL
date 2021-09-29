@@ -38,5 +38,5 @@ https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Tex
 <a href="https://github.com/Kabilan-n"><img src="https://avatars.githubusercontent.com/u/60337704?v=4" title="Kabilan-n" width="80" height="80"></a>
 <a href="https://github.com/lakshayak"><img src="https://avatars.githubusercontent.com/u/81644362?v=4" title="lakshayak" width="80" height="80"></a>
 <a href="https://github.com/meghnabmenon"><img src="https://avatars.githubusercontent.com/u/65718925?v=4" title="meghnabmenon" width="80" height="80"></a>
-<a href="https://github.com/DeepthiSudharsan"><img src="https://avatars.githubusercontent.com/u/59824729?v=4" title="DeepthiSudharsan" width="80" height="80"></a>
+<a href="https://github.com/nikhiltidke101"><img src="https://avatars.githubusercontent.com/u/54956597?v=4" title="nikhiltidke101" width="80" height="80"></a>
 <a href="https://github.com/atomicrajat619"><img src="https://avatars.githubusercontent.com/u/46920783?v=4" title="atomicrajat619" width="80" height="80"></a>
