@@ -1,3 +1,4 @@
+@st.cache
 import streamlit as st
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from langdetect import detect
@@ -21,7 +22,6 @@ def app():
 	inp = st.text_input("Enter text that you want to translate to english")
 	if ((inp is not None) and (st.button("TRANSLATE"))):
 
-		@st.cache
 		model_name = "facebook/mbart-large-50-many-to-many-mmt"
 		model = MBartForConditionalGeneration.from_pretrained(model_name)
 		r = detect(inp)
@@ -41,3 +41,4 @@ def app():
 			st.write(out)
 	else:
 		st.warning("Please enter text for translating")
+@st.cache
