@@ -9,6 +9,7 @@ import PIL
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from langdetect import detect
 from PIL import ImageDraw,Image, ImageFont, ImageDraw, ImageEnhance, ImageFont
+@st.cache
 def app():
 
 	language_d ={"Telugu" : "te","Vietnamese" : "vi","Lithuanian" : "lt","French": "fr","Thai": "th","Czech" : "cs","Bengali" : "bn",
@@ -86,7 +87,6 @@ def app():
 		draw = ImageDraw.Draw(im)
 		ig = imgt()
 		# st.image(ig.draw_boxes(im, output))
-		@st.cache
 		model_name = "facebook/mbart-large-50-many-to-many-mmt"
 		model = MBartForConditionalGeneration.from_pretrained(model_name)
 		listToStr = ' '.join([str(elem) for elem in output_txt]) 
