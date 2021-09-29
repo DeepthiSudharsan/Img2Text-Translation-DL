@@ -1,5 +1,7 @@
 This app has been deployed on streamlit. To view the app check the link below
 
+https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Text-Translation-Streamlit/img2text_translate.py
+
 ## Streamlit web app implementation of the project. 
 
 ### Pre-requisites to run Streamlit app locally :
