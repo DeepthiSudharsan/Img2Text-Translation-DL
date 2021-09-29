@@ -24,7 +24,7 @@ $ streamlit run img2text_translate.py
 ```
 $ python3 -m venv env
 ```
-* Activate the virtual environment
+* Activate the virtual environment and go to the streamlit folder
 ```
 $ source env/bin/activate
 ```
