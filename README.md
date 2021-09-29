@@ -10,6 +10,8 @@ text_translate.ipynb - Translation of text input to English
 #### Streamlit GUI for the project can be found in the Img-Text-Translation-Streamlit folder
 This app has been deployed on streamlit. To view the app check the link below
 
+https://share.streamlit.io/deepthisudharsan/img2text-translation-dl/main/Img-Text-Translation-Streamlit/img2text_translate.py
+
 #### Some Snippets from the App
 
 #### Welcome landing page
