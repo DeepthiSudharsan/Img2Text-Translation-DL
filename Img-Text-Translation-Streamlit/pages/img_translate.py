@@ -86,6 +86,7 @@ def app():
 		draw = ImageDraw.Draw(im)
 		ig = imgt()
 		# st.image(ig.draw_boxes(im, output))
+		@st.cache
 		model_name = "facebook/mbart-large-50-many-to-many-mmt"
 		model = MBartForConditionalGeneration.from_pretrained(model_name)
 		listToStr = ' '.join([str(elem) for elem in output_txt]) 
