@@ -9,7 +9,6 @@ import PIL
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from langdetect import detect
 from PIL import ImageDraw,Image, ImageFont, ImageDraw, ImageEnhance, ImageFont
-@st.cache
 def app():
 
 	language_d ={"Telugu" : "te","Vietnamese" : "vi","Lithuanian" : "lt","French": "fr","Thai": "th","Czech" : "cs","Bengali" : "bn",
