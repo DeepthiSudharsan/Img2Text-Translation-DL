@@ -1,4 +1,3 @@
-@st.cache
 import streamlit as st
 from transformers import MBartForConditionalGeneration, MBart50TokenizerFast
 from langdetect import detect
